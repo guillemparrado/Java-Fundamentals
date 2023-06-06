@@ -9,7 +9,7 @@ import java.util.*;
 import static java.lang.System.exit;
 
 public class App {
-    private final String resourcesFolder = "S01_01/src/main/resources/";
+    private final String resourcesFolder = "src/main/resources/";
     private final Map<String, String> countryCity = new HashMap<>();
     private final Scanner in = new Scanner(System.in);
 

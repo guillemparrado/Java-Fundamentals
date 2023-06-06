@@ -7,7 +7,7 @@ public class Redactor {
     private String nom;
     private final String dni;
     static private int souCents = 1500;
-    private List<Noticia> noticies = new ArrayList<Noticia>();
+    private List<Noticia> noticies = new ArrayList<>();
 
     public Redactor(String dni) {
         this.dni = dni;

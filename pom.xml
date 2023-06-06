@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>S01_01</artifactId>
+  <artifactId>Java-Bootcamp-Sprint-1</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>S01_01</name>
+  <name>Java-Bootcamp-Sprint-1</name>
   <url>http://maven.apache.org</url>
 
   <properties>

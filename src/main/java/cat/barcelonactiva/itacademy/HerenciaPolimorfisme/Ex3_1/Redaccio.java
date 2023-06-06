@@ -3,7 +3,7 @@ package cat.barcelonactiva.itacademy.HerenciaPolimorfisme.Ex3_1;
 import java.util.ArrayList;
 
 public class Redaccio {
-    final private ArrayList<Redactor> redactors = new ArrayList<Redactor>();
+    final private ArrayList<Redactor> redactors = new ArrayList<>();
 
     public ArrayList<Redactor> getRedactors() {
         return redactors;
