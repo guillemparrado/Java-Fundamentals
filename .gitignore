@@ -1,3 +1,6 @@
+# Builds
+*/target/*
+
 # IDE folders
 .idea
 .vscode
