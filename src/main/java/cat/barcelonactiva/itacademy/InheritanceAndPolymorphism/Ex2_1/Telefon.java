@@ -1,4 +1,4 @@
-package cat.barcelonactiva.itacademy.HerenciaPolimorfisme.Ex2_1;
+package cat.barcelonactiva.itacademy.InheritanceAndPolymorphism.Ex2_1;
 
 public class Telefon {
     String marca;

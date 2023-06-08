@@ -1,4 +1,4 @@
-package cat.barcelonactiva.itacademy.HerenciaPolimorfisme.Ex1_2;
+package cat.barcelonactiva.itacademy.InheritanceAndPolymorphism.Ex1_2;
 
 public class Cotxe {
     static final String marca = "Ford";

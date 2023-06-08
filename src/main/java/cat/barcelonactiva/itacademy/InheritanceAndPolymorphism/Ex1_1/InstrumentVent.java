@@ -1,4 +1,4 @@
-package cat.barcelonactiva.itacademy.HerenciaPolimorfisme.Ex1_1;
+package cat.barcelonactiva.itacademy.InheritanceAndPolymorphism.Ex1_1;
 
 public class InstrumentVent extends Instrument {
 

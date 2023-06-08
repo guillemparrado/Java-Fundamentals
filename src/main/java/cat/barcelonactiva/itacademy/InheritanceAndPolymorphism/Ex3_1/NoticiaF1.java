@@ -1,4 +1,4 @@
-package cat.barcelonactiva.itacademy.HerenciaPolimorfisme.Ex3_1;
+package cat.barcelonactiva.itacademy.InheritanceAndPolymorphism.Ex3_1;
 
 public class NoticiaF1 extends Noticia {
     private final String escuderia;

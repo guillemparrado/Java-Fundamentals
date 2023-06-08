@@ -28,28 +28,28 @@ public class App {
 
         // Ex3: Crea una Functional Interface que contingui un mètode anomenat operacio(). Aquest mètode ha de retornar un float. Injecta a la interfície creada mitjançant una lambda, el cos del mètode, de manera que es pugui transformar l’operació amb una suma, una resta, una multiplicació i una divisió.
 
-        IOperacio suma = (float... values) -> {
+        Operacio suma = (float... values) -> {
             float result = 0;
             for (float v : values)
                 result += v;
             return result;
         };
 
-        IOperacio resta = (float... values) -> {
+        Operacio resta = (float... values) -> {
             float result = 0;
             for (float v : values)
                 result -= v;
             return result;
         };
 
-        IOperacio multiplicacio = (float... values) -> {
+        Operacio multiplicacio = (float... values) -> {
             float result = 0;
             for (float v : values)
                 result *= v;
             return result;
         };
 
-        IOperacio divisio = (float... values) -> {
+        Operacio divisio = (float... values) -> {
             float result = 0;
             for (float v : values)
                 result /= v;
